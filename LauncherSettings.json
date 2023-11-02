@@ -1,0 +1,22 @@
+{
+  "UrlTelegram": "",
+  "UrlDiscord": "",
+  "UrlVk": "",
+  "UrlShop": "",
+  "DevBlogs": [
+    {
+      "Девблог": "236",
+      "Ссылка на скачивание клиента": "https://vk.com/topic-178378164_49183222",
+      "Ссылка на обновление клиента": "https://raw.githubusercontent.com/Kaidoz-Rust/FineRust/main/Clients/240/"
+    }
+  ],
+  "Servers": [
+    {
+      "Название сервера": "Fine Rust 240 DEV MOD X2-X5",
+      "Ip": "194.147.90.117",
+      "VersionDev": "236",
+      "Port": 35000,
+      "QueryPort": 35000
+    }
+  ]
+}
