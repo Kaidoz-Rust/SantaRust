@@ -12,11 +12,11 @@
   ],
   "Servers": [
     {
-      "Название сервера": "Fine Rust 240 DEV MOD X2-X5",
-      "Ip": "194.147.90.117",
+      "Название сервера": "Santa Rust",
+      "Ip": "play.santarust.pw",
       "VersionDev": "236",
-      "Port": 35000,
-      "QueryPort": 35000
+      "Port": 9999,
+      "QueryPort": 9999
     }
   ]
 }
