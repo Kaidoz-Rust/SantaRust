@@ -13,7 +13,7 @@
   "Servers": [
     {
       "Название сервера": "Santa Rust",
-      "Ip": "play.santarust.pw",
+      "Ip": "164.132.206.199",
       "VersionDev": "236",
       "Port": 9999,
       "QueryPort": 9999
